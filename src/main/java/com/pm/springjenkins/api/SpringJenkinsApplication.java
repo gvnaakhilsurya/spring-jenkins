@@ -20,6 +20,7 @@ public class SpringJenkinsApplication {
 
     public static void main(String[] args) {
         logger.info("Application Executed.......");
+        logger.info("Test Case executing... second log statement");
 
 
 
